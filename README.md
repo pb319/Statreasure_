@@ -2,7 +2,7 @@
 Let's embark on an exciting statistical adventure!
 
 ## Table of Contents:
-- Lesson1 (Sampling Distribution)
+- Bootstrapped Sampling Distribution
 
 
 ### Sampling Distribution
